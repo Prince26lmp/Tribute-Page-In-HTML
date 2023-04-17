@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    font-size:xx-large;
+    
+}
+body
+{
+    background-color: white;
+    color: black;
+}
+p{
+    text-align: center;
+    font-size: large;
+}
+    
+.h1>quote{
+    background-color: white;
+    color: black;
+    font-size:larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+.Bio>h2{
+    font-size:xx-large;
+    text-align:center;
+}
+.end>h1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.title>h1{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}   
+.quote>h1{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    border: 10px;
+}
